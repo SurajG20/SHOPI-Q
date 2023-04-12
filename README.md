@@ -1,1 +1,1 @@
-# SHOPI-Q
+# eCommerce Website Template
